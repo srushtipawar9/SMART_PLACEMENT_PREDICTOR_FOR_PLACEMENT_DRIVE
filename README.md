@@ -1,0 +1,2 @@
+# SMART_PLACEMENT_PREDICTOR_FOR_PLACEMENT_DRIVE
+Machine Learning-based placement prediction system using Flask
